@@ -276,7 +276,7 @@ header a:hover {
   padding: var(--size-450);
   gap: var(--size-550);
   background-color: var(--clr-primary-400);
-  background-image: url(../src/images/bg-shorten-mobile.svg);
+  background-image: url(./src/images/bg-shorten-mobile.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right top;

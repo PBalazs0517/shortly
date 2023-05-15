@@ -276,7 +276,7 @@ header a:hover {
   padding: var(--size-450);
   gap: var(--size-550);
   background-color: var(--clr-primary-400);
-  background-image: url(/src/images/bg-shorten-mobile.svg);
+  background-image: url(src/images/bg-shorten-mobile.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right top;
@@ -302,7 +302,7 @@ header a:hover {
   .action-shortener {
     padding: var(--size-700);
     gap: var(--size-400);
-    background-image: url(./src/images/bg-shorten-desktop.svg);
+    background-image: url(src/images/bg-shorten-desktop.svg);
     background-size: cover;
     background-position: top center;
     width: 100%;
@@ -416,7 +416,7 @@ header a:hover {
 /* Get started */
 
 .getstarted {
-  background-image: url(./src/images/bg-boost-mobile.svg);
+  background-image: url(src/images/bg-boost-mobile.svg);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position-y: center;
@@ -426,7 +426,7 @@ header a:hover {
 }
 @media (width > 47em) {
   .getstarted {
-    background-image: url(./src/images/bg-boost-desktop.svg);
+    background-image: url(src/images/bg-boost-desktop.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: center;
